@@ -19,6 +19,7 @@ here i9 installed git on my iterm following the guidance on the website. I first
 ![4img](./4img.png)
 ![5img](./5img.png)
 ![6img](./6img.png)
+![16img](./16img.png)
 
 # VIRTUAL BOX INSTALLATION
 
@@ -27,6 +28,7 @@ Here i downloaded the virtual box on my Macos. after clicking the download butto
 ![7img](./7img.png)
 ![8img](./8img.png)
 ![9img](./9img.png)
+![17img](./17img.png)
 
 # UBUNTU INSTALLATION
 
@@ -49,6 +51,7 @@ I visited the AWS free tier page and clicked on create an AWS Account. After cre
 ![13img](./13img.png)
 ![14img](./13img.png)
 ![15img](./15img.png)
+![18img](./18img.png)
 
 # CONCLUSION 
 Setting up my tech environment has been a rewarding and insightful journey. Through this process, I successfully downloaded and installed all the essential tools needed for a smooth development workflow. These include VirtualBox, Visual Studio Code (VS Code), and the Ubuntu operating system, which I now run efficiently in a virtualized environment.
@@ -57,4 +60,4 @@ I also installed Git using Homebrew on iTerm, and I’ve set up both a GitHub ac
 
 This setup has not only deepened my understanding of development environments but has also strengthened my confidence in navigating core tools and platforms used in the tech space. With the guidance and support I received throughout the process, I’ve been able to learn at an accelerated pace and lay a solid foundation for more advanced DevOps and cloud-related projects.
 
-I’m excited to build upon this setup and continue growing as a Cloud and DevOps Engineer.
+I’m excited to build upon this setup and continue growing as a Cloud and DevOps Engineer. This is my submission. 
